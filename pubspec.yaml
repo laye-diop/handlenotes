@@ -1,7 +1,7 @@
-name: notes
+name: notes01
 description: "A flutter package to handle notes in a database."
 version: 0.0.1
-homepage:
+homepage: "https://github.com/laye-diop/handlenotes"
 
 environment:
   sdk: ^3.5.3
